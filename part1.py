@@ -1,4 +1,7 @@
-name = "anand"
-leaves = 19 
-year =2021
-print ("dear" + name/n + ", you have " + str(leaves) + " days of leave balance for this " + str(year) + ".")
+name = input("what is ur name?")
+email_id = input("what is ur email id?")
+ph_no = input("enter ur phone number:")
+print("***************************************")
+print("user name"+ name)
+print ("email id"+email_id)
+print("ph:"+ph_no)
